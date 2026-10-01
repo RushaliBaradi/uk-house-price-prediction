@@ -36,8 +36,11 @@ Python · pandas · scikit-learn · XGBoost · SHAP · Power BI
 
 ## Project Structure
 ├── price_prediction_main.ipynb # full pipeline: cleaning, feature engineering, training, evaluation
+
 ├── requirements.txt
+
 ├── dashboard_screenshots/ # Power BI dashboard exports
+
 └── README.md
 
 ## How to Run
