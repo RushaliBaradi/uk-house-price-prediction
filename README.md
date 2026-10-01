@@ -60,7 +60,7 @@ Python · pandas · scikit-learn · XGBoost · SHAP · Power BI
 A Power BI dashboard built on the cleaned transaction data, analyzing price trends by
 property type, tenure, season, and region.
 
-![Dashboard](https://github.com/RushaliBaradi/uk-house-price-prediction/Dashboard.jpeg)
+![Dashboard] (https://github.com/RushaliBaradi/uk-house-price-prediction/Dashboard.jpeg)
 
 
 ## Model Explainability
